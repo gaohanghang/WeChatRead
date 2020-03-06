@@ -1,10 +1,4 @@
-# MarkdownNice 客户端
-
-![](img/Snipaste_2020-03-03_20-11-26.png)
-
-![](img/4131583238798_.pic_hd.jpg)
-
-![](img/Snipaste_2020-03-03_20-40-44.png)
+# 微信读书客户端
 
 
 **Clone and run for a quick way to see Electron in action.**

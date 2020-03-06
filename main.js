@@ -14,7 +14,7 @@ function createWindow () {
 })
 
   // and load the index.html of the app.
-  mainWindow.loadURL('https://mdnice.com/')
+  mainWindow.loadURL('https://weread.qq.com/')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()

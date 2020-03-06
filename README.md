@@ -10,7 +10,7 @@
 
 ![](img/Xnip2020-03-07_02-00-02.jpg)
 
-1[](img/Xnip2020-03-07_02-03-44.jpg)
+![](img/Xnip2020-03-07_02-03-44.jpg)
 
 **Clone and run for a quick way to see Electron in action.**
 

@@ -1,6 +1,6 @@
 # 微信读书客户端
 
-安装
+[下载](https://github.com/gaohanghang/WeChatRead/releases)
 
 ![](img/1.png)
 
